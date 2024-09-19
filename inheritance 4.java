@@ -9,7 +9,7 @@ class clg{
   public static void main (String[]args){
     engineer e= new enginer();
     System.out.println("salery:"+ e.salery
-                       + "Benifits:"+e.benefits);
+                       + "\n Benifits:"+e.benefits);
   }
 }
 
